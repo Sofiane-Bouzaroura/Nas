@@ -1,0 +1,14 @@
+[
+    {
+        "username": "soso",
+        "directory": "/srv/nas/users/soso"
+    },
+    {
+        "username": "crystal" ,
+        "directory": "/srv/nas/users/crystal"
+    },
+    {
+        "username": "cyril" ,
+        "directory": "/srv/nas/users/cyril"
+    }
+]
